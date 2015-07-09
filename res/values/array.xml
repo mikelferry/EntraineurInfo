@@ -1,0 +1,10 @@
+<resources>
+    <array name="listeChap1">
+        <item>Environnement Materiel et Logiciel</item>
+        <item>Representation de l\'information</item>
+        <item>Programmation Web</item>
+        <item>Base de donnees</item>
+        <item>Reseaux Informatiques</item>
+		<item>Bureautique</item>
+    </array>
+</resources>

@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  
+	<ListPreference android:key="preferencesNiv7"
+      android:title="TERMINAL" android:summary="Veuillez choisir un chapitre"
+      android:dialogTitle="Choisir un Chapitre:"
+      android:entries="@array/listeChap1"
+      android:entryValues="@array/listeChap1"/>
+	  
+</PreferenceScreen>

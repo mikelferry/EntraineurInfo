@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity = "top"
+    >
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/texteAccueil"
+    android:gravity = "top|center_horizontal"
+    android:text="@string/bienvenu"
+    />
+
+<Button 
+    android:layout_width = "fill_parent"
+    android:layout_height = "wrap_content"
+    android:gravity="center"
+    android:id = "@+id/btnNewPartie"
+    android:text="@string/nouvellepartie"
+    > 
+</Button>
+
+<Button 
+    android:layout_width = "fill_parent"
+    android:layout_height = "wrap_content"
+    android:gravity="center"
+    android:id = "@+id/btnAide"
+    android:text="@string/aide"
+    > 
+</Button>
+
+<Button 
+    android:layout_width = "fill_parent"
+    android:layout_height = "wrap_content"
+    android:gravity="center"
+    android:id = "@+id/btnApropos"
+    android:text="@string/apropos"
+    > 
+</Button>
+
+<Button 
+    android:layout_width = "fill_parent"
+    android:layout_height = "wrap_content"
+    android:gravity="center"
+    android:id = "@+id/btnQuit"
+    android:text="@string/quitter"
+    > 
+</Button>
+
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/texteCopyRight"
+    android:gravity = "bottom|center_horizontal"
+    android:text = "@string/copyright"
+    />
+</LinearLayout>

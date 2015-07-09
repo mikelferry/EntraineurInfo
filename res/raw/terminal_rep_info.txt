@@ -1,0 +1,5 @@
+Un Octet est l'équivalent de:2:7 bits:8 bits:9 bits:
+1 Méga Octet (MO) est l'équivalent de:2:1024 Giga Octet (GO):1024 Kilo Octet (KO):1024 Tera Octet (TO):
+La représentation décimal du nombre binaire 1001101 est:3:75:76:77
+La représentation hexadécimale du nombre binaire 100111110101001010 est:1:27D4A:37C9A:57D4A:
+pour représenter le nombre décimal 63 Nous avons besoin d'au moins:2:5 bits:6 bits:7 bits:

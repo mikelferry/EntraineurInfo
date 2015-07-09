@@ -1,0 +1,7 @@
+L'informatique est:2:la science qui étudie les ordinateurs:la science du traitement automatique de l'information:la science des téléphones:
+Un ordinateur est un appareil:1:de traitement automatique:de traitement manuel:mécanique:
+Le BOULIER et la PASCALINE ont été crées:2:après 1900:avant 1900:aucune proposition:
+Lequel des ordinateurs ci-dessous n'était pas volumineux?:2:LE MARK:Le IPhone:L'ENIAC:
+Quel ordinateur fait partie des premiers ordinateurs à base de transistor?:1:IBM 700:ENIAC:UNIVAC:
+Les deux grandes parties d'un Ordinateur sont:2:HARDWARE-HOTWARE:HARDWARE-SOFTWARE:SOFTWARE-HOTWARE:
+Le clavier et la souris sont des périphériques:1:d'entrée:de sortie:d'entrée-sortie:

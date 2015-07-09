@@ -1,0 +1,34 @@
+Le terme informatique est issu de la contraction de:2:Information-Mathématique:Information-Automatique:Information-Logique:
+On doit le nom "Informatique" à:1:DREYFUS:BABBAGE:PASCAL:
+Parmi les propositions suivantes, laquelle n'est pas dans la définition de l'informatique?:1:l'irrationnalité:l'automatisme:la rationnalité:
+Quel outil n'est pas utilisé en Informatique?:3:la Télévision:l'ordinateur:aucune proposition:
+Le clavier est un périphérique:3:de sortie:mixte:d'entrée:
+RAM signifie:1:Random Access Memory:Random Aleatory Memory:Read Access Memory:
+ROM signifie:2:Random only Memory:Read Only Memory:Random Only Mean:
+Le Disque dur est une:1:Mémoire de masse:Mémoire volatile:Mémoire RAM:
+parmi les mémoires suivantes, laquelle est volatile?:3:Clé USB:CD-ROM:RAM:
+On peut écrire des données dans une mémoire morte:2:Vrai:Faux:Vrai et Faux:
+1000 GO est l'équivalent de:3:100 MO:1000000 KO:1 TO:
+Le "D" de DRAM signifie:1:Dynamique:Digital:Drive:
+Lequel n'est pas un type de RAM?:3:DRAM:SRAM:TRAM:
+Le pouce désigne:1:la taille de la diagonale de l'écran:la taille de la largeur de l'écran:la taille de la longueur de l'écran:
+le pixel désigne:3:la plus petite quantité d'information:la plus petite quantité de données:la plus petite quantité de surface:
+Quelle est l'action accomplie sur un virus par un antivirus:2:la diffusion:la mise en quarantaine:l'arrestation:
+Lequel n'est pas un exemple d'antivirus?:1:Adobe:Avast:Norton:
+Le terme Anglais désignant un Ordinateur est:3:Ordinatory:Ordinator:Computer:
+Qu'est-ce qui n'est pas une information traitable par un ordinateur?:3:Le texte:le son:Aucune Proposition:
+Le terme "Ordinateur" a été crée par:1:Jacques Perret:Dreyfus:Babbage:
+Quelle firme a mis sur pied le MACINTOSH?:2:IBM:APPLE:MICROSOFT:
+Lequel désigne un Ordinateur Portable?:1:LAPTOP:DESKTOP:SMARTOP:
+Les deux types de logiciels sont:1:logiciel Système-logiciel d'application:logiciel Système-logiciel fondamental:logiciel fondamental-logiciel utilitaires:
+Parmis les logiciels suivants, lequel n'est pas un système d'exploitation?:2:MS WINDOWS:MS OFFICE:LINUX:
+La vitesse d'exécution des instructions par un processeur se mésure en:1:GHz:Km/S:Pouces/m:
+Parmi les écrans suivants, lequel n'est pas plat?:3:Plasma:LCD:CRT:
+Quelle proposition est fausse pour un écran plat?:3:Il consomme moins d'énergie electrique:il a une bonne résolution:il est difficilement mobile:
+Le programme chargé de faire fonctionner un périphérique dans un système est:2:le progiciel:le pilote:le Plug-And-Play:
+Un périphérique qui ne nécessite pas de configration pour son fonctionnement est:1:PLUG-AND-PLAY:Amovible:automatique:
+Une carte Multimédia est une mémoire:3:Vive:Morte:De masse:
+Une mémoire amovible est:3:non déplacable:non transportable à l'extérieur d'un ordinateur:transportable à l'extérieur d'un ordinateur:
+Laquelle des mémoires suivantes est amovibles?:1:Le CD-ROM:la RAM:le disque dûr interne:
+ 
+

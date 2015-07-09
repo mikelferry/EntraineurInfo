@@ -1,0 +1,5 @@
+Une base de données est:2:un ensemble de données distribuées:une collection structurée de données:un ensemble de données indépendantes:
+On interroge une base de données via:1:des requêtes:des interrogations:des assertions:
+SQL signifie:2:Store Query Language:Structured Query Language:System Query Language:
+Parmi les propositions suivante, laquelle n'est pas un type de Base de données?:1:BD Anarchique:BD hiérarchique:BD Relationnelle:
+Les lignes dans une table sont encore appelées:2:des attributs:des tuples:des relations:

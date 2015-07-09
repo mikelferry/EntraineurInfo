@@ -1,0 +1,6 @@
+HTML signifie:1:HyperText MarkUp Language:HyperText Marking Language:HyperText Making Language:
+CSS signifie:3:Cell Style Sheet:Cascading Style System:Cascading Style Sheet:
+La balise de création des tables est:2:<tableau>:<table>:<tableur>:
+Le retour à la ligne est effectué en HTML par:1:<br>:<bn>:<bl>:
+Le langage HTML permet de créer des pages web:1:Statiques:Dynamiques:Statiques et Dynamique:
+

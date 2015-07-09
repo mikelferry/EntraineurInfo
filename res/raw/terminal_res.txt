@@ -1,0 +1,49 @@
+un réseau informatique est constitué seulement d'ordinateurs:2:vrai:faux:vrai et faux:
+parmi les ressources suivantes, laquelle n'est pas partageable en réseau?:3:l'imprimante:Internet:Aucune Proposition:
+un inconvenient des réseaux est:2:la communication entre personnes:la propagation des virus informatique:le partage des fichiers:
+les trois canaux de transmission possible sont:1:cable-air-fibre optique:cable-eau-fibre optique:cable-air-eau:
+un résau wifi utilise comme moyen de transmission:1:l'air:l'eau:la fibre optique:
+WIFI signifie:3:Wireless Federation:Wire Frequency:Wireless Fidelity:
+la fibre optique transmport:3:du courant:de l'eau:de la lumière:
+Concernant l’étendu des reseaux informatique qui est l’intrus?:3:Wifi:LAN:WLAN:
+le bluetooth est un réseau de type:1:WLAN:MAN:WAN:
+la WIMAX est un:2:WLAN:WMAN:WWAN:
+le Switch est utilisé dans :1:une topologie en étoile:une topologie en anneau:une topologie en bus:
+le switch est:1:plus intelligent que le HUB:moins intelligent que le HUB:équivalent au HUB:
+qui sait reconnaitre le destinataire d'un message qu'il reçoit dans un réseau local?:1:le switch:le hub:le routeur:
+la disposition spatiale des équipements dans un réseau LAN est:3:la topologie logique:la topologie amorphe:la topologie physique:
+le mode de circulation des informations entre postes dans un réseau est:2:la topologie physique:la topologie logique:la topologie amorphe:
+un réseau qui s'éttend sur plus de 10km est un réseau de type:1:WAN:MAN:LAN:
+lequel n'est pas un connecteur réseau:3:BNC:RJ45:VGA:
+les règles régissant la communication dans un réseau sont appelées:2:lois:protocoles:politique:
+qu'est-ce qui n'est pas une caracterisques d'une bon réseau?:2:évolutivité:non tolérence aux pannes:Qualité de service:
+le modèle OSI comprend:1:7 couches:6 couches:5 couches:
+le modèle TCP/IP comprend:3:2 couches:3 couches:4 couches:
+quelle couche n'est pas du modèle OSI?:3:physique:transport:logique:
+le routeur permet:1:l'interconnexion des LAN:l'interconnexion des terminaux:le filtrage des paquets:
+l'unité de données dans la couche transport est:2:le paquet:le segment:le bit:
+l'unité de donnée dans la couche physique est:1:le bit:le paquet:le segment:
+le sigle IP signifie:1:Internet Protocol:Internet Process:Internet Planning:
+que signifie CA du sigle CDMA/CA signifie:3:Collision Accointance:Collision Availability:Collision Avoidance:
+parmi les adresses IP suivantes, laquelle est juste?:1:255.255.0.0:256.255.0.0:214.255.236.258:
+OSI signifie:1:Open System InterConnection:Open Software InterConnection:Over System Internet:
+CSMA/CD signifie:1:Carrier Sense Multiple Access/Collision Detection:Carrier Sense Mono Access/Cell Detection:Carrier Sense Modulation Access/Cell Detection:
+quel équipement n'est pas un terminal dans un réseau Informatique?:2:un Iphone:un routeur:un LAPTOP:
+dans un modèle Client/Serveur, l'équipement qui traite les requêtes est un:1:Serveur:Client:Les deux:
+l'architecture Peer-to-Peer:2:utilise un équipement intermédiaire entre les poste terminaux:ne fait usage d'aucun équipement intermédiaire:est aussi Client/Serveur:
+l'adresse iP 192.168.1.100 est de classe:3:A:B:C:
+le serveur DNS permet:1:la résolution des noms de domaines:la résolution des adresse virtuelles:la transmission des paquets:
+DNS signifie:3:Domain Name Service:Domain Name Server:Domain Name System:
+le serveur DHCP est utilisé pour:2:l'attribution statique des adresses IP:l'attribution dynamique des adresses IP:l'attribution statique et dynamique des adresses IP:
+le serveur SMTP est utilisé pour:2:la messageries instanatanée:la messagerie electronique:le téléchargement:
+Whatsapp est une application:1:de messagerie instantanée:de navigation Internet:de téléchargement de fichiers:
+la commande IPCONFIG permet:2:d'obetenir une adresse IP:de consulter les paramètres IP d'un terminal:de rechercher les Serveurs DHCP:
+La couche transport:1:segmente les données et se charge du contrôle nécessaire au réassemblage:permet le routage des données:adresse les données:
+TCP/IP signifie:3:Transport Control Process:Transport Control Protocol:Transmission Control Protocol:
+UDP est un  protocole de la couche:1:transport:réseau:application:
+Quel protocole est de la couche transport du modèle OSI?:2:SMTP:UDP:POP3:
+TCP est:3:orienté adressage:non orienté connexion:orienté connexion:
+La connexion TCP se fait en combien d’étapes ?:3:1:2:3:
+Lequel est un processus de la couche réseau du modèle OSI?:1:le routage:le transport:la segmentation:
+La passerelle est un périphérique de:1:sortie du réseau local:broadcast:unicast:
+
